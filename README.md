@@ -1,5 +1,8 @@
 ## Joke Teller
 Joke Teller is a web application that fetches jokes from an API and converts them into voice using the VoiceRSS JavaScript SDK. Users can click the "Tell me a Joke" button to listen to a joke.
+![2024-01-03_20-10](https://github.com/StefanSchutte/Joke_Teller/assets/127427422/12f7703f-ed6a-48b4-b904-c3e4ac8cb3fe)
+
+[Deployed Site](https://joke-teller-stefan.netlify.app/)
 
 ### Features
 - Tell Me a Joke Button: Click the "Tell me a Joke" button to fetch and play a joke in voice format.
